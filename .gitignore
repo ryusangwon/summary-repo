@@ -1,1 +1,5 @@
 .idea/
+huggingface/marian*/
+huggingface/mt5*/
+QMSum/
+data/
